@@ -1,2 +1,2 @@
-Este es una prueba 2
+Este es una prueba para una sub carpeta con archivo Readmi
 
